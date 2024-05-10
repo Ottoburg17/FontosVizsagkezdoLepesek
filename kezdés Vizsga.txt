@@ -1,0 +1,13 @@
+Hitelesítő és adatkezelő
+
+törlöd az előző nevét github-rol
+
+cmd
+
+git config --list
+
+git config --global --unset  user.name 
+git config --global  --unset user.email
+
+git config --global user.name " Németh Ottó"
+git config --global user.email " ottoburg17@gmail.com"
